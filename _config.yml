@@ -20,7 +20,7 @@ author: zl zhang
 ###############################################
 
 navbar-links:
-  About Me: "xjtu stu"
+  About Me: "zzl0827"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
@@ -52,12 +52,12 @@ round-avatar: true
 social-network-links:
   email: "zhangzhuoli2001@outlook.com"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+  # facebook: deanattali
   github: zzl0827
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  # twitter: daattali
+  # patreon: DeanAttali
+  # youtube: "@daattali"
+  # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
